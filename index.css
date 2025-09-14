@@ -1,0 +1,77 @@
+.dark1{
+    color: black;
+    font-weight: bold;
+}
+.assh{
+    color: lightslategray;
+}
+ body{
+    margin: 40px;
+ }
+nav ul li{
+    list-style: none; 
+
+}
+.display-flex{
+    display: flex;
+}
+.nav-link{
+text-decoration: none;
+}
+.nav-iteam{
+    margin-right: 25px;
+}
+.navber{
+    justify-content: space-between;
+   
+}
+.navber,.banner, .main-content{
+    max-width: 1140px;
+    margin: 0 auto;
+    }
+    
+
+   .banner title{
+    font-weight: bold;
+    font-size: 45px;
+    margin: 15px;
+   } 
+.banner-content{
+    max-width: 570px;
+    margin-top: 20px;
+    margin: 15px;
+}
+.banner pic{
+    margin-top: 15px;
+    margin: 15px;
+}
+    h1{
+        font-size: 85px;
+    }
+    .ff{
+        color:rgb(from rgb(236, 15, 15) r g b);
+        
+    }
+.banner{
+display: flex;
+}
+.content-discribtion{
+ text-align: center;
+ margin-bottom: 30px;
+}
+.banner-flower{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    
+}
+.btn{
+    color: aliceblue;
+    background-color: orangered;
+    padding:8px 100px;
+    
+}
+.sample-f{
+    max-width: 270px;
+    margin: 0 5px;
+}
